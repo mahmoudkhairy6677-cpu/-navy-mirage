@@ -1,0 +1,6 @@
+{
+  "name": "Navy Mirage",
+  "description": "Mobile-first neumorphic music player with local audio file playback, cyan glowing visualizer, and dark/light themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
